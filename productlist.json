@@ -1,0 +1,37 @@
+
+{
+    "shopping_list":
+    [
+    {"slno":"#P001","name":"Maida","qty":"1","unit":"kg"     ,"dept":"Grocery"      ,"notes":"Branded"},
+    {"slno":"#P002","name":"Apple","qty":"2","unit":"kg"   ,"dept":"Food"    ,"notes":"Best quality"},
+    {"slno":"#P003","name":"Juice","qty":"1","unit":"litre"   ,"dept":"Food"      ,"notes":"Orange"},
+    {"slno":"#P004","name":"Oil","qty":"3","unit":"litre"     ,"dept":"Food","notes":"Sunflower"},
+    {"slno":"#P005","name":"Banana","qty":"4","unit":"kg"     ,"dept":"Food"    ,"notes":"Ripe"},
+    {"slno":"#P006","name":"Fresh cream","qty":"1","unit":"packet"     ,"dept":"Food"      ,"notes":"Need Medium sized pack"},
+    {"slno":"#P007","name":"Mineral water","qty":"10","unit":"bottles"   ,"dept":"Food"    ,"notes":"Aquafina brand"},
+    {"slno":"#P008","name":"Biscuit","qty":"1","unit":"packet"   ,"dept":"Food"      ,"notes":"Arrowroot"},
+    {"slno":"#P009","name":"Biscuit","qty":"2","unit":"packet"     ,"dept":"Food","notes":"Digestive"},
+    {"slno":"#P010","name":"Onion","qty":"4","unit":"kg"     ,"dept":"Food"    ,"notes":"Big onion"},
+    {"slno":"#P011","name":"Sugar","qty":"1","unit":"kg"     ,"dept":"Food"      ,"notes":"Branded"},
+    {"slno":"#P012","name":"Pen","qty":"2","unit":"packet"   ,"dept":"Stationary"    ,"notes":"One pack blue one black any brand"},
+    {"slno":"#P013","name":"Magazine","qty":"1","unit":"number"   ,"dept":"Publications"      ,"notes":"Vogue latest edition"},
+    {"slno":"#P014","name":"Newspaper","qty":"1","unit":"number"     ,"dept":"Publications","notes":"Todays"},
+    {"slno":"#P015","name":"Dish wash","qty":"2","unit":"number"     ,"dept":"Stationary"    ,"notes":"Tide brand"},
+    {"slno":"#P016","name":"Nails","qty":"1","unit":"packet"     ,"dept":"Home depot"      ,"notes":"Steel nails small size 1 inch"},
+    {"slno":"#P017","name":"Hand Wash","qty":"2","unit":"bottles"   ,"dept":"Health"    ,"notes":"Dettol"},
+    {"slno":"#P018","name":"Bulb","qty":"1","unit":"number"   ,"dept":"Home depot"      ,"notes":"LED brand Philips"},
+    {"slno":"#P019","name":"Candy","qty":"3","unit":"packet"     ,"dept":"Food","notes":"Cadbury Gems big pack"},
+    {"slno":"#P020","name":"Candy","qty":"4","unit":"packet"     ,"dept":"Food"    ,"notes":"Nestle Milkybar"},
+    {"slno":"#P021","name":"Tooth paste","qty":"1","unit":"packet"     ,"dept":"Stationary"      ,"notes":"Cibaca"},
+    {"slno":"#P022","name":"Hair oil","qty":"2","unit":"bottles"   ,"dept":"Health"    ,"notes":"Ayurvedic only"},
+    {"slno":"#P023","name":"Shampoo","qty":"1","unit":"bottles"   ,"dept":"Stationary"      ,"notes":"Pantene brand"},
+    {"slno":"#P024","name":"Air freshner","qty":"1","unit":"packet"     ,"dept":"Stationary","notes":"ambi pur"},
+    {"slno":"#P025","name":"Wet tissues","qty":"4","unit":"packet"     ,"dept":"Health"    ,"notes":"Disinfectant wipes"},
+    {"slno":"#P026","name":"Shaving cream","qty":"1","unit":"packet"     ,"dept":"Stationary"      ,"notes":"Gillette"},
+    {"slno":"#P027","name":"Tablets","qty":"2","unit":"packet"   ,"dept":"Health"    ,"notes":"Vitamin C pack of 10 atleast"},
+    {"slno":"#P028","name":"Honey","qty":"1","unit":"bottles"   ,"dept":"Food"      ,"notes":"Natural and branded needed"},
+    {"slno":"#P029","name":"Face mask","qty":"3","unit":"number"     ,"dept":"Health","notes":"N95"},
+    {"slno":"#P030","name":"Flavoured drink powder","qty":"1","unit":"packet"     ,"dept":"Food"    ,"notes":"Tang Pinapple flavoured"}
+    ]
+
+}
